@@ -31,6 +31,10 @@ h1{
 .text-second-color{
     color: var(--primary);
 }
+.text-second-color-transparent{
+    color: #006865d8;
+}
+
 
 /* background color */
 .bg-body-primary{
@@ -41,6 +45,9 @@ h1{
 }
 .bg-body-third{
     background-color: var(--third);
+}
+.bg-body-transparent{
+    background-color: #d9d9d92c;
 }
 
 /* Rectangle 2 */

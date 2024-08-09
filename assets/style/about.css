@@ -28,7 +28,9 @@
     text-align: justify;
 }
 .about-out-shadow{
-   box-shadow: 3px 7px 15px 7px #0d1c2581
+   box-shadow: 3px 7px 15px 7px #0d1c2581;
+   border-left: solid var(--primary) 2px !important;
+   border-bottom: solid var(--primary) 2px !important;
 }
 .vr{
     height: auto;
