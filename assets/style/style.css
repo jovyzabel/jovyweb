@@ -86,3 +86,9 @@ h1{
 .out-shadow{
     box-shadow: 8px 5px 12px 0px var(--primary);
 }
+
+button:hover{
+background-color: var(--secondary) !important; 
+color:var(--third);
+transition: .5s ease;
+}
