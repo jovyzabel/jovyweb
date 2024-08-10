@@ -25,6 +25,11 @@ h1{
 .link-color{
     color: var(--third) !important;
 }
+.link-hover:hover{
+    text-transform: uppercase;
+    font-weight: bolder;
+    transition: .5 ease;
+}
 .text-first-color{
     color: var(--secondary);
 }
