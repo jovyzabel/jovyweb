@@ -106,3 +106,10 @@ background-color: var(--secondary) !important;
 color:var(--third);
 transition: .5s ease;
 }
+
+/* Footer */
+.copyright{
+    font-family: 'Italianno';
+    font-size: 1.4rem;
+    color: #57d4c4; /* Special color of text for the copyright*/
+}
