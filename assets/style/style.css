@@ -34,6 +34,9 @@ h1{
 .text-second-color-transparent{
     color: #006865d8;
 }
+.text-second-color-lighter{
+    color: #008170;
+}
 
 
 /* background color */
@@ -49,8 +52,12 @@ h1{
 .bg-body-transparent{
     background-color: #d9d9d92c;
 }
+.ion:hover{
+    color:#008170 !important;
+    transition: 5 ease !important;
+}
 
-/* Rectangle 2 */
+/* Rectangle bg */
 .my-landing-bg{
     /* position: absolute; */
     width: 100%;
