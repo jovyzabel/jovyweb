@@ -113,3 +113,12 @@ transition: .5s ease;
     font-size: 1.4rem;
     color: #57d4c4; /* Special color of text for the copyright*/
 }
+
+/*queries*/
+
+@media screen and(max-width: 480px) {
+ .circle{
+    display: none !important;
+ }   
+ 
+}
